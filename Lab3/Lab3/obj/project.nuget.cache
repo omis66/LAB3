@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GVYPzivSNudRBiDNHJyrStKTRBe8clw9uU7Al8XuEj0CWx2Z8oEUH2PYpTD2Oiubu37uf1+U9EiE1pFVlkZ8/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ErgoA\\source\\repos\\Lab3\\Lab3\\Lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ErgoA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
